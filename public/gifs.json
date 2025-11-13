@@ -1,0 +1,72 @@
+{
+  "1 - Peitoral": [
+    "supino_reto.gif",
+    "crucifixo.gif",
+    "peck_deck.gif"
+  ],
+  "2 - Costas": [
+    "puxada_frente.gif",
+    "remada_curvada.gif",
+    "pulldown.gif"
+  ],
+  "3 - Tríceps": [
+    "triceps_corda.gif",
+    "mergulho.gif",
+    "extensao_triceps.gif"
+  ],
+  "4 - Bíceps": [
+    "rosca_direta.gif",
+    "rosca_martelo.gif",
+    "rosca_concentrada.gif"
+  ],
+  "5 - Abdominal": [
+    "abdominal_supra.gif",
+    "prancha.gif",
+    "elevacao_pernas.gif"
+  ],
+  "6 - Trapézio": [
+    "encolhimento_barra.gif",
+    "remada_alta.gif",
+    "face_pull.gif"
+  ],
+  "7 - Eretores da espinha": [
+    "levantamento_terra.gif",
+    "hip_thrust.gif",
+    "good_morning.gif"
+  ],
+  "8 - Ombros": [
+    "desenvolvimento.gif",
+    "elevacao_lateral.gif",
+    "elevacao_frontal.gif"
+  ],
+  "9 - Antebraço": [
+    "rosca_punho.gif",
+    "reverse_curl.gif",
+    "wrist_roll.gif"
+  ],
+  "10 - Glúteos": [
+    "ponte_gluteo.gif",
+    "kickback.gif",
+    "hip_abduction.gif"
+  ],
+  "11 - Membros Inferiores": [
+    "agachamento_livre.gif",
+    "avanco.gif",
+    "leg_press.gif"
+  ],
+  "12 - Pernas": [
+    "cadeira_extensora.gif",
+    "cadeira_flexora.gif",
+    "stiff_leg_deadlift.gif"
+  ],
+  "13 - Panturrilhas": [
+    "gemeos_pe.gif",
+    "gemeos_sentado.gif",
+    "calf_raises.gif"
+  ],
+  "14 - Cardio": [
+    "esteira.gif",
+    "bicicleta.gif",
+    "pular_corda.gif"
+  ]
+}
